@@ -187,7 +187,7 @@ def delete_script(script_id: int, data: dict):
 # ============================================================
 #  INTERNAL SECRET (บอทใช้คุยกับ API)
 # ============================================================
-INTERNAL_SECRET = "CHANGE_THIS_TO_RANDOM_STRING"  # เปลี่ยนเป็นรหัสลับยาวๆ
+INTERNAL_SECRET = "xero999"  # เปลี่ยนเป็นรหัสลับยาวๆ
 
 # ============================================================
 #  KEEP ALIVE (ป้องกัน Render sleep)
