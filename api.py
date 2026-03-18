@@ -8,7 +8,7 @@ import uvicorn
 # ============================================================
 API_HOST = "0.0.0.0"
 API_PORT  = 8000
-API_BASE  = "https://your-api.railway.app"  # เปลี่ยนเป็น URL จริงของ Railway
+API_BASE  = "https://api-xero.onrender.com"  # เปลี่ยนเป็น URL จริงของ Railway
 
 DB_PATH   = "xero.db"  # Railway ใช้ path นี้
 
